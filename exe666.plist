@@ -28,17 +28,15 @@
                <key>url</key>
                <string>http://192.168.1.136/~abner/Interactive.ipa</string>
            </dict>
-           <!-- full-size-image: the large 512×512 icon used by iTunes. -->
+           <!-- display-image: the icon to display during download. -->
            <dict>
                <key>kind</key>
-               <string>full-size-image</string>
-               <!-- optional.  one md5 hash for the entire file. -->
-               <key>md5</key>
-               <string>61fa64bb7a7cae5a46bfb45821ac8bba</string>
+               <string>display-image</string>
+               <!-- optional. icon needs shine effect applied. -->
                <key>needs-shine</key>
                <true/>
                <key>url</key>
-               <string>http://192.168.1.136/~abner/logo512*512.png</string>
+               <string>http://www.example.com/image.57×57.png</string>
            </dict>
        </array><key>metadata</key>
        <dict>
