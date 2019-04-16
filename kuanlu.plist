@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.zuoja.com/app/kuanlumarket.ipa</string>
+					<string>http://www.zuoja.com/app/KuaiDaiMarket.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.abner.DJMicroVideo</string>
+				<string>com.abner.kuanlumarketm</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
