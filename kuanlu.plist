@@ -11,8 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-<!-- 					<string>http://101.89.186.74/app/KuaiDaiMarket.ipa</string> -->
-					<string>http://dingjingtech.com/EShopClient.ipa</string>
+					<string>http://101.89.186.74/app/KuaiDaiMarket.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
